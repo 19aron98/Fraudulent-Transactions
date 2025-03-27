@@ -36,3 +36,15 @@ Multiple classification algorithms were tested:
 6. XGBoost
 
 The best-performing model in cross-validation was Random Forest, achieving near 100% accuracy on the validation set with high recall for fraud cases.
+
+## Results
+- The Random Forest model demonstrated near-perfect accuracy (close to 100%) on the validation dataset, with ~98% recall for fraudulent cases.
+- The feature engineering approach (balance difference flags, surge indicators, etc.) significantly improved detection of suspicious transactions.
+- The final model is effective at catching fraudulent transactions while minimizing false alarms.
+
+## Contributing
+- Contributions are welcome! To propose changes:
+- Fork the repository.
+- Create a new branch for your feature or bug fix.
+- Commit and push your changes.
+- Open a pull request with a detailed explanation.
