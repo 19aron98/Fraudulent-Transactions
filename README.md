@@ -1,7 +1,7 @@
 # Fraudulent-Transactions
 A machine learning project to detect and classify fraudulent financial transactions. This repository contains data exploration, feature engineering, and model building steps aimed at identifying potential fraud with high accuracy and recall.
 
-##Project Overview
+## Project Overview
 The goal of this project is to develop a robust fraud detection system using historical transaction data. The notebook applies several classification algorithms, including Random Forest, XGBoost, Logistic Regression, and others. Through feature engineering and data preprocessing, we aim to identify the key factors contributing to fraudulent behavior.
 
 ## Key Objectives
